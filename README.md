@@ -5,5 +5,5 @@ Daftar Isi
 
 * `BacaFile.java` : membaca file text
 * `TulisFile.java` : menulis file text
-* `HitungBatasSks.java` : membaca `mahasiswa.txt` dan `batas.txt`, kemudian menghitung dan menulis batas sks per mahasiswa ke file `batas-mahasiswa.txt`
+* `DemoHitungBatasSks.java` : membaca `batas.txt`, kemudian membuat object `Batas` dari data dalam file
 
